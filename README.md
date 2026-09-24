@@ -48,10 +48,11 @@ Business Problem ➔ Stakeholder Analysis ➔ Requirements ➔ As-Is Process ➔
 ---
 
 ## 🔍 Key Findings (Actual Data Insights)
-* **Highest Drop-off Point:** 64% of users abandon the cart during the mandatory "Login/Registration" step.
-* **Device Insights:** Mobile users have a 15% higher abandonment rate compared to Desktop users due to responsive layout friction.
-* **Payment Failures:** 8% of transactions fail at the gateway, with zero recovery mechanisms in place (no retry option).
-* **Cart Value Effect:** High delivery fees discovered late in the summary step cause a 22% drop-off in orders under ₹1,000.
+* **High Cart Abandonment:** 65.15% of cart-add sessions resulted in cart abandonment.
+* **Purchase Conversion:** 34.85% of cart-add sessions resulted in a completed purchase.
+* **New User Drop-off:** New users had a 71.31% abandonment rate, compared with 60.12% for returning users.
+* **Session Engagement:** Very short sessions had the highest abandonment rate at 68.56%, compared with 63.29% for long sessions.
+* **Device & Marketing Insights:** Device and marketing-channel differences were relatively small and were not identified as primary drivers of cart abandonment.
 
 ---
 
