@@ -14,36 +14,35 @@ An end-to-end Business Analysis project focused on identifying cart abandonment 
 
 ## ⚙️ Business Analysis (BA) Process
 ```text
-Business Problem ➔ Stakeholder Analysis ➔ Requirements ➔ As-Is Process ➔ Data Analysis ➔ Root Cause Analysis ➔ To-Be Process ➔ User Stories ➔ KPI Dashboard ➔ Recommendations
+Business Problem ➔ Stakeholder Analysis ➔ Requirements ➔ As-Is Process ➔ Data Analysis ➔ Root Cause Analysis ➔ To-Be Process ➔ User Stories (Task) ➔ KPI Dashboard ➔ Recommendations
 ```
 
 ---
 
 ## 📸 Project Screenshots & Visuals
-*તમારા રેપોઝીટરી (Folder) માં ઈમેજીસ અપલોડ કરીને તેની લિંક નીચે `src` માં મૂકી દેવી.*
 
 ### 📑 BRD Cover & Stakeholders
 <p align="center">
-  <img src="YOUR_BRD_COVER_IMAGE_LINK_HERE" width="45%" alt="BRD Cover" />
-  <img src="YOUR_STAKEHOLDER_TABLE_IMAGE_LINK_HERE" width="45%" alt="Stakeholder Table" />
+  <img src="BRD Cover.png" width="45%" alt="BRD Cover" />
+  <img src="Stakeholder Table.png" width="45%" alt="Stakeholder Table" />
 </p>
 
 ### 🔄 Process Diagrams (As-Is vs To-Be)
 <p align="center">
-  <img src="YOUR_AS_IS_PROCESS_IMAGE_LINK_HERE" width="45%" alt="As-Is Process" />
-  <img src="YOUR_TO_BE_PROCESS_IMAGE_LINK_HERE" width="45%" alt="To-Be Process" />
+  <img src="As-Is Process.png" width="45%" alt="As-Is Process" />
+  <img src="To-Be Process.png" width="45%" alt="To-Be Process" />
 </p>
 
 ### 📊 Data Analysis & Dashboard
 <p align="center">
-  <img src="YOUR_EXCEL_PIVOT_IMAGE_LINK_HERE" width="45%" alt="Excel Pivot Analysis" />
-  <img src="YOUR_POWER_BI_DASHBOARD_IMAGE_LINK_HERE" width="45%" alt="Power BI Dashboard" />
+  <img src="Excel Pivot Analysis.png" width="45%" alt="Excel Pivot Analysis" />
+  <img src="Power BI Dashboard.png" width="45%" alt="Power BI Dashboard" />
 </p>
 
 ### 🎯 Root Cause & Project Management
 <p align="center">
-  <img src="YOUR_ROOT_CAUSE_IMAGE_LINK_HERE" width="45%" alt="Root Cause Analysis" />
-  <img src="YOUR_JIRA_STORIES_IMAGE_LINK_HERE" width="45%" alt="Jira User Stories" />
+  <img src="Route Cause Analysis.png" width="45%" alt="Root Cause Analysis" />
+  <img src="Jira User Stories.png" width="45%" alt="Jira User Stories" />
 </p>
 
 ---
@@ -65,5 +64,5 @@ Business Problem ➔ Stakeholder Analysis ➔ Requirements ➔ As-Is Process ➔
 ---
 
 ## 📂 Project Documents & Attachments
-* 📄 [Download Business Requirement Document (BRD)](YOUR_BRD_PDF_LINK_HERE)
-* 📊 [View Interactive Power BI Dashboard](YOUR_POWER_BI_PUBLIC_LINK_HERE)
+* 📄 [Download Business Requirement Document (BRD)](https://github.com/stutihingu/ecommerce-checkout-abandonment-project/blob/main/Ecommerce_Checkout_Cart_Abandonment_BRD.pdf) 
+* 📊 [View Interactive Power BI Dashboard](https://github.com/stutihingu/ecommerce-checkout-abandonment-project/blob/main/BA%20Project.pbix) 
