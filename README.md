@@ -57,10 +57,11 @@ Business Problem ➔ Stakeholder Analysis ➔ Requirements ➔ As-Is Process ➔
 ---
 
 ## 💡 Recommendations & Actions
-1. **Implement Guest Checkout:** Introduce a frictionless guest checkout to eliminate mandatory registration and reduce drop-offs by an estimated 30%.
-2. **Combine Steps:** Merge Customer Details and Address into a single intuitive screen to shorten the funnel.
-3. **Add Payment Retry Loop:** Implement an automatic "Retry Payment" option keeping the cart active to recover failed transactions.
-4. **Upfront Pricing Transparency:** Display shipping fees and dynamic discounts early in the checkout process rather than hiding them until the final screen.
+* **Introduce Guest Checkout:** Provide a guest checkout option to reduce friction for first-time customers.
+* **Simplify the Checkout Flow:** Reduce unnecessary steps and make the checkout process easier to complete.
+* **Improve Payment Recovery:** Provide clear payment failure messages and a retry option without restarting checkout.
+* **Improve Price Transparency:** Display delivery charges, discounts, and the final payable amount clearly before payment.
+* **Focus on New Users:** Further investigate the higher abandonment rate among new users and optimize their first-time checkout experience.
 
 ---
 
