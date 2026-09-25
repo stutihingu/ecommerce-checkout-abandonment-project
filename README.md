@@ -41,7 +41,7 @@ Business Problem ➔ Stakeholder Analysis ➔ Requirements ➔ As-Is Process ➔
 
 ### 🎯 Root Cause & Project Management
 <p align="center">
-  <img src="Route Cause Analysis.png" width="45%" alt="Root Cause Analysis" />
+  <img src="Root Cause Analysis.png" width="45%" alt="Root Cause Analysis" />
   <img src="Jira User Stories.png" width="45%" alt="Jira User Stories" />
 </p>
 
